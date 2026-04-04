@@ -1,1 +1,3 @@
-For pa4 you need to have a virutalbox as well as ubuntu downloaded to be able to run my program with a linux system. 
+For pa4 you need to have a virutalbox as well as ubuntu downloaded to be able to run my program with a linux system. You will need to compile and run this with the source file as well as the make file. The name of my file would be pa4. So to run the make file you would do make then sudo insmod pa4.ko and then check the logs by doing sudo dmesg | tail. To test the module you would use cat. 
+
+I would assume that you would have the correct linux environement and kernel headers and tools installed on your computer. The example deliverable shows what the program. The example given shows how the user would interact with the kernel. Unfortuantely I had some difficulties to test the program to its full extent but that was do to my environment, but if the user does not have any troubles with their environment this should not be an issue. 
